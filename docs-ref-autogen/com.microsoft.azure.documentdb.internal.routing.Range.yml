@@ -726,14 +726,14 @@ references:
   name: JsonSerializable.toString(int)
   nameWithType: JsonSerializable.toString(int)
   fullName: com.microsoft.azure.documentdb.JsonSerializable.toString(int)
-- uid: com.microsoft.azure.documentdb.internal.routing.Range.MinComparator
-  name: Range.MinComparator<T>
-  nameWithType: Range.MinComparator<T>
-  fullName: com.microsoft.azure.documentdb.internal.routing.Range.MinComparator<T>
 - uid: com.microsoft.azure.documentdb.internal.routing.Range.MaxComparator
   name: Range.MaxComparator<T>
   nameWithType: Range.MaxComparator<T>
   fullName: com.microsoft.azure.documentdb.internal.routing.Range.MaxComparator<T>
+- uid: com.microsoft.azure.documentdb.internal.routing.Range.MinComparator
+  name: Range.MinComparator<T>
+  nameWithType: Range.MinComparator<T>
+  fullName: com.microsoft.azure.documentdb.internal.routing.Range.MinComparator<T>
 - uid: com.microsoft.azure.documentdb.JsonSerializable.
   name: JsonSerializable.
   nameWithType: JsonSerializable.

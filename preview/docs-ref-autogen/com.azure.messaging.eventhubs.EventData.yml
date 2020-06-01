@@ -385,9 +385,10 @@ references:
     name: String
     fullName: java.lang.String
 - uid: com.azure.messaging.eventhubs.EventData.SystemProperties
-  name: EventData.SystemProperties
-  nameWithType: EventData.SystemProperties
-  fullName: com.azure.messaging.eventhubs.EventData.SystemProperties
+  spec.java:
+  - uid: com.azure.messaging.eventhubs.EventData.SystemProperties
+    name: SystemProperties
+    fullName: com.azure.messaging.eventhubs.EventData.SystemProperties
 - uid: com.azure.core.util.Context
   spec.java:
   - uid: com.azure.core.util.Context
