@@ -122,7 +122,6 @@ items:
   overload: com.azure.core.http.rest.PagedResponseBase.close*
   type: Method
   package: com.azure.core.http.rest
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public void close()
 - uid: com.azure.core.http.rest.PagedResponseBase.getContinuationToken()
@@ -137,7 +136,6 @@ items:
   overload: com.azure.core.http.rest.PagedResponseBase.getContinuationToken*
   type: Method
   package: com.azure.core.http.rest
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public String getContinuationToken()
     return:
@@ -172,7 +170,6 @@ items:
   overload: com.azure.core.http.rest.PagedResponseBase.getElements*
   type: Method
   package: com.azure.core.http.rest
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public IterableStream<T> getElements()
     return:
@@ -189,7 +186,6 @@ items:
   overload: com.azure.core.http.rest.PagedResponseBase.getHeaders*
   type: Method
   package: com.azure.core.http.rest
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public HttpHeaders getHeaders()
     return:
@@ -223,7 +219,6 @@ items:
   overload: com.azure.core.http.rest.PagedResponseBase.getStatusCode*
   type: Method
   package: com.azure.core.http.rest
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public int getStatusCode()
     return:

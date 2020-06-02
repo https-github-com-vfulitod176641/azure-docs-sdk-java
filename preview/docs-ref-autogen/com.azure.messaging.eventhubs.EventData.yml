@@ -178,7 +178,6 @@ items:
   overload: com.azure.messaging.eventhubs.EventData.equals*
   type: Method
   package: com.azure.messaging.eventhubs
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public boolean equals(Object o)
     parameters:
@@ -356,7 +355,6 @@ items:
   overload: com.azure.messaging.eventhubs.EventData.hashCode*
   type: Method
   package: com.azure.messaging.eventhubs
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public int hashCode()
     return:

@@ -117,7 +117,6 @@ items:
   overload: com.azure.core.amqp.exception.LinkErrorContext.toString*
   type: Method
   package: com.azure.core.amqp.exception
-  summary: '\{@inheritDoc\}'
   syntax:
     content: public String toString()
     return:
