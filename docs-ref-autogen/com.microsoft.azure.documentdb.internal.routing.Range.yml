@@ -436,6 +436,7 @@ items:
   overload: com.microsoft.azure.documentdb.internal.routing.Range.toJson*
   type: Method
   package: com.microsoft.azure.documentdb.internal.routing
+  summary: Converts to a JSON string.
   syntax:
     content: public String toJson()
     return:
@@ -452,6 +453,7 @@ items:
   overload: com.microsoft.azure.documentdb.internal.routing.Range.toString*
   type: Method
   package: com.microsoft.azure.documentdb.internal.routing
+  summary: Gets Simple String representation of property bag. For proper conversion to json and inclusion of the default values use <xref uid="com.microsoft.azure.documentdb.internal.routing.Range.toJson()" data-throw-if-not-resolved="false">#toJson()</xref>.
   syntax:
     content: public String toString()
     return:
