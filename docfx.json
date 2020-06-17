@@ -434,6 +434,8 @@
     ],
     "lruSize": 0,
     "dest": "azure/sdk/java",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "exportRawModel":  true,
+    "exportViewModel": true
   }
 }
