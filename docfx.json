@@ -436,8 +436,6 @@
     "dest": "azure/sdk/java",
     "markdownEngineName": "markdig",
     "exportRawModel": true,
-    "rawModelOutputFolder": "../_model",
-    "exportViewModel": true,
-    "viewModelOutputFolder": "../_viewmodel"
+    "exportViewModel": true
   }
 }
